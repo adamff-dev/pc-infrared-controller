@@ -1,5 +1,5 @@
 # IR Remote PC
-Lie you down, grab your Android smartphone and control remotely and easily your PC.
+Lie down, grab your Android smartphone and control remotely and easily your PC.
 
 ## Final project & requirements
 <img weight="600px" height="360px" src="https://raw.githubusercontent.com/BlueArduino20/IR_Remote_PC/master/img/frontal.jpg">
