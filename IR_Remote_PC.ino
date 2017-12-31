@@ -134,7 +134,7 @@ void loop() {
     }
     else if (results.value == 1092910182) {
         Serial.println(" -> ESC (Button 22)");
-        Keyboard.write('F');
+        Keyboard.write('f');
     }
     else if (results.value == 2936799671) {
         Serial.println(" -> FULL SCREEN (Button 23)");
