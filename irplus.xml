@@ -1,0 +1,27 @@
+<irplus>
+<device manufacturer="BlueArduino20" model="My computer" columns="12" format="WINLIRC_RC6" scaleRatio="1.2">
+<button label="&#61457;" labelSize="25.0" span="4" backgroundColor="FF771400">51</button>
+<button label="&#1045292;" labelSize="25.0" span="4" backgroundColor="FF385600">52</button>
+<button label="&#1044548;" labelSize="28.0" span="4" backgroundColor="FF003300">53</button>
+<button label="&#1044557;" labelSize="25.0" span="4" backgroundColor="FF424242">54</button>
+<button label="&#1044679;" labelSize="25.0" span="4" backgroundColor="FF890000">55</button>
+<button label="&#1044564;" labelSize="25.0" span="4">56</button>
+<button label="UP" labelSize="25.0" span="4">57</button>
+<button label="&#1045593;" labelSize="25.0" span="4">58</button>
+<button label="DN" labelSize="25.0" span="4">59</button>
+<button label="&#61514;" labelSize="25.0" span="4">60</button>
+<button label="&#61515;&#61516;" labelSize="18.0" span="4">16</button>
+<button label="&#61518;" labelSize="25.0" span="4">62</button>
+<button label="&#1045675;" labelSize="28.0" span="4">63</button>
+<button label="&#61515;&#61516;" labelSize="25.0" span="4" backgroundColor="FF0500A3">64</button>
+<button label="&#1045676;" labelSize="28.0" span="4">65</button>
+<button label="&#8211;" labelSize="25.0" span="4" backgroundColor="FF7F1E00">66</button>
+<button label="+" labelSize="25.0" span="4" backgroundColor="FF005B00">67</button>
+<button label="&#1045889;" labelSize="25.0" span="4" backgroundColor="FF0C2133">68</button>
+<button label="&#1044546;" labelSize="25.0" span="4">69</button>
+<button label="OK" labelSize="25.0" span="4">70</button>
+<button label="&#1044917;" labelSize="25.0" span="4">71</button>
+<button label="ESC" labelSize="25.0" span="6">72</button>
+<button label="&#1044895;" labelSize="25.0" span="6">73</button>
+</device>
+</irplus>
