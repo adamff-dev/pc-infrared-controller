@@ -41,3 +41,18 @@ Upload the following code into your Pro Micro with your Arduino IDE. Make sure t
 5. Save the file.
 
 6. Test your setup.
+
+## Functions
+
+<img weight="300" height="406" src="https://raw.githubusercontent.com/BlueArduino20/IR_Remote_PC/master/img/irplus.jpg">
+
+<table>
+  <tr><td>1. Shutdown</td><td>2. System test</td><td>3. Minimize all windows</td></tr>
+  <tr><td>4. Left arrow</td><td>5. Show all windows<td>6. Right arrow</td></tr>
+  <tr><td>7. Page UP</td><td>8. Home + Refresh</td><td>9. Page DOWN</td></tr>
+  <tr><td>10. Previous song</td><td>11. Play/Pause song</td><td>12. Next song</td></tr>
+  <tr><td>13. Rewind video (Left arrow)</td><td>14. Play/Pause video</td><td>15. Flash forward video (Right arrow)</td></tr>
+  <tr><td>16. Decrease volume</td><td>17. Increase volume</td><td>18. Mute</td></tr>
+  <tr><td>19. Minimize all windows</td><td>20. Enter</td><td>21. Focus on the current window</td></tr>
+  <tr><td>22. ESC</td><td>23. Alternate full screen</td></tr>
+</table>
