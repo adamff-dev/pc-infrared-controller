@@ -36,7 +36,7 @@ void loop() {
         Keyboard.press(KEY_LEFT_GUI);
         Keyboard.press('m');
     }
-    else if (results.value ==  3717821821) {
+    else if (results.value ==  511716332) {
         Serial.println(" -> LEFT (Button 4)");
         Keyboard.press(KEY_LEFT_ARROW);
         Keyboard.releaseAll();
