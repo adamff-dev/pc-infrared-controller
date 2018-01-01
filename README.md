@@ -2,7 +2,7 @@
 Lay down, grab your Android smartphone and control remotely and easily your PC.
 
 ## Final project & requirements
-<img weight="600px" height="360px" src="https://raw.githubusercontent.com/BlueArduino20/IR_Remote_PC/master/img/frontal.jpg">
+<img weight="600em" height="360em" src="https://raw.githubusercontent.com/BlueArduino20/IR_Remote_PC/master/img/frontal.jpg">
 
 1. <b>IR sensor: TSOP4838 DIP-3.</b></br></br>
 <img src="https://raw.githubusercontent.com/BlueArduino20/IR_Remote_PC/master/img/ir_features.PNG">
@@ -15,7 +15,7 @@ Lay down, grab your Android smartphone and control remotely and easily your PC.
 
 ## Connections
 
-<img weight="750px" height="421px" src="https://raw.githubusercontent.com/BlueArduino20/IR_Remote_PC/master/img/rear.jpg">
+<img weight="750em" height="421em" src="https://raw.githubusercontent.com/BlueArduino20/IR_Remote_PC/master/img/rear.jpg">
 
 <table><tr><th>Pro Micro</th><th>TSOP4838</th></tr>
   <tr><td>VCC</td><td>Vs (3)</td></tr>
@@ -34,7 +34,7 @@ Upload the following code into your Pro Micro with your Arduino IDE. Make sure t
 
 2. Add a new device and select the brand and the device that you want.
 
-3. Go to "Edit" and press the "XML" button <img weight="18px" height="18px" src="https://raw.githubusercontent.com/BlueArduino20/IR_Remote_PC/master/img/xml_icon.jpg">.
+3. Go to "Edit" and press the "XML" button <img weight="18em" height="18em" src="https://raw.githubusercontent.com/BlueArduino20/IR_Remote_PC/master/img/xml_icon.jpg">.
 
 4. Paste the following code: <a href="https://github.com/BlueArduino20/IR_Remote_PC/blob/master/irplus.xml">irplus.xml</a> into the application.
 
@@ -44,7 +44,7 @@ Upload the following code into your Pro Micro with your Arduino IDE. Make sure t
 
 ## Functions
 
-<img weight="300" height="406" src="https://raw.githubusercontent.com/BlueArduino20/IR_Remote_PC/master/img/irplus.jpg">
+<img weight="300em" height="406em" src="https://raw.githubusercontent.com/BlueArduino20/IR_Remote_PC/master/img/irplus.jpg">
 
 <table>
   <tr><td>1. Shutdown</td><td>2. System test</td><td>3. Minimize all windows</td></tr>
