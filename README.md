@@ -2,7 +2,7 @@
 Lay down, grab your Android smartphone and control remotely and easily your PC.
 
 ## Final project & requirements
-<img weight="600em" height="360em" src="https://raw.githubusercontent.com/BlueArduino20/IR_Remote_PC/master/img/frontal.jpg">
+<img src="https://raw.githubusercontent.com/BlueArduino20/IR_Remote_PC/master/img/frontal.jpg">
 
 1. <b>IR sensor: TSOP4838 DIP-3.</b></br></br>
 <img src="https://raw.githubusercontent.com/BlueArduino20/IR_Remote_PC/master/img/ir_features.PNG">
@@ -15,7 +15,7 @@ Lay down, grab your Android smartphone and control remotely and easily your PC.
 
 ## Connections
 
-<img weight="750em" height="421em" src="https://raw.githubusercontent.com/BlueArduino20/IR_Remote_PC/master/img/rear.jpg">
+<img src="https://raw.githubusercontent.com/BlueArduino20/IR_Remote_PC/master/img/rear.jpg">
 
 <table><tr><th>Pro Micro</th><th>TSOP4838</th></tr>
   <tr><td>VCC</td><td>Vs (3)</td></tr>
