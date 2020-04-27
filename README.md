@@ -1,7 +1,7 @@
 # IR Remote PC
-Lay down, grab your Android smartphone and control remotely and easily your PC.
+Control your PC remotely with a smartphone with infrared capabilities or an old TV controller. This project is an example, but you can modify it in order to please your necessities.
 
-## Final project & requirements
+## Hardware
 <img src="https://raw.githubusercontent.com/BlueArduino20/IR_Remote_PC/master/img/frontal.jpg">
 
 1. <b>IR sensor: TSOP4838 DIP-3.</b></br></br>
@@ -28,7 +28,7 @@ Lay down, grab your Android smartphone and control remotely and easily your PC.
 Upload the following code into your Pro Micro with your Arduino IDE. Make sure that you select the "Arduino Micro".
 <a href="https://github.com/BlueArduino20/IR_Remote_PC/blob/master/IR_Remote_PC.ino">Go to IR_Remote_PC.ino</a>
 
-## Android "irplus" APP setup
+## Android APP: "irplus" setup
 
 1. Install the APP into your phone: <a href="https://play.google.com/store/apps/details?id=net.binarymode.android.irplus">Irplus</a>
 
